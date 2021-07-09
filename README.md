@@ -1,0 +1,1 @@
+# django-lambda-aurora-terraform
