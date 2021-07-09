@@ -1,0 +1,11 @@
+app/app_env
+docs/
+terraform/1-Provider_mine.tf
+terraform/terraform.tfstate.backup
+terraform/terraform.tfstate
+terraform/.terraform.lock.hcl
+terraform/.terraform/
+__pycache__
+.DS_Store
+*.sqlite3
+env
